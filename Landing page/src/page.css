@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://wallpaper.forfun.com/fetch/61/61a4ee47dc650e2236cdcaef39a69734.jpeg);
+    background-repeat: no-repeat;
+}
+.page {
+    text-align: center;
+}
+.page h1{
+    color: aliceblue;
+    letter-spacing: 3px;
+}
+.page p {
+    color: aliceblue;
+    padding: 100px;
+}
+.midia video {
+    width: 42%;    
+}
